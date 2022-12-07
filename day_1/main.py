@@ -12,4 +12,4 @@ with open('input', 'r') as file:
 		else:
 			cals[0] += int(line[0:-1])
 	
-	print(f'The eld carrying the most callories is carrying a total of {cals[1]} callories.')
+	print(f'The eld carrying the most calories is carrying a total of {cals[1]} calories.')
